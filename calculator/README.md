@@ -1,4 +1,4 @@
-# calculator
+# Split bill Calculator
 
 A new Flutter project.
 
